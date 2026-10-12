@@ -1,9 +1,5 @@
 # Embedded Systems & Firmware Learning
 
-**Module Engineer · Learning in progress · Coursera coursework**
-
-I am a Module Engineer building knowledge in C, embedded systems, and firmware as I prepare to pursue opportunities in embedded systems, firmware, and test engineering.
-
 I am currently taking courses on Coursera. This repository will document my learning through personal notes, original code, and hands-on projects as I progress.
 
 ## Learning direction
