@@ -1,6 +1,6 @@
 # Embedded Systems & Firmware Learning
 
-I am currently taking courses on Coursera. This repository will document my learning through personal notes, original code, and hands-on projects as I progress.
+I am currently taking the **[Embedded Software Development with C Specialization](https://www.coursera.org/specializations/embedded-software-development-with-c)** on Coursera to build my knowledge of C, embedded systems, and firmware. This repository will document my learning through personal notes, original code, and hands-on projects as I progress.
 
 ## Learning direction
 
